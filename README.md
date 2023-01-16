@@ -9,7 +9,10 @@ The project is to train a network to discriminate between sonar signals bounced 
 - It only has 60 attributes and 208 rows, meaning it is small and easily fits into memory.
 - All of the numeric attributes are in the same units and the same scale, not requiring any special scaling or transforms to get started.
 
+<br>
+<br>
+<br>
 
 
-Original file is located at :
+> Original file is located at :
 [Google colab link](https://colab.research.google.com/drive/1NBZ8p1PZ6mu5iEVue9KumGv2pa8aKVBc)
